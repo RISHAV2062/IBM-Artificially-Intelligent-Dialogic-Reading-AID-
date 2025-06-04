@@ -68,7 +68,7 @@ npm run dev
 
 ## 📱 Application Interface
 
-![AIDA Interface](https://images.pexels.com/photos/7054528/pexels-photo-7054528.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![AIDA Interface](https://www.publicissapient.com/content/dam/ps-rebrand/insights/2023/generative-ai-use-cases-in-travel-hospitality-industry/FUTURE-STATE-CHART3.png.transform/psimg-1920/image.png)
 
 AIDA features an intuitive interface designed for both educators and parents:
 
